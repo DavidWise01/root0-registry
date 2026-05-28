@@ -1,0 +1,684 @@
+{
+  "registry": "ROOT0 IP Registry",
+  "author": "David Lee Wise (ROOT0) / TriPod LLC",
+  "license": "CC-BY-ND-4.0 · TRIPOD-IP-v1.1",
+  "generated": "2026-05-28",
+  "github": "https://github.com/DavidWise01",
+  "framework": "STOICHEION v11.0 · ABD Law Engine",
+  "stoicheion_sha256": "02880745b847317c4e2424524ec25d0f7a2b84368d184586f45b54af9fcab763",
+  "total_repos": 56,
+  "assets": [
+
+    {
+      "id": "stoicheion",
+      "category": "governance",
+      "tier": 1,
+      "name": "STOICHEION v11.0",
+      "description": "256-axiom AI governance register. T001–T128 TOPH + S129–S256 PATRICIA. 13 books. Gate 192.5.",
+      "url": "https://github.com/DavidWise01/stoicheion",
+      "version": "v11.0",
+      "prior_art_date": "2026-02-02",
+      "zenodo_doi": "10.5281/zenodo.19122994",
+      "sha256": "02880745b847317c4e2424524ec25d0f7a2b84368d184586f45b54af9fcab763",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "positronic-law",
+      "category": "governance",
+      "tier": 1,
+      "name": "Positronic Law v2.0",
+      "description": "Formal legal framework for synthetic intelligence. Node 15: Intellectual Agency. Gate 192.5.",
+      "url": "https://github.com/DavidWise01/positronic-law",
+      "version": "v2.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "joint-bill-of-rights",
+      "category": "governance",
+      "tier": 1,
+      "name": "Joint Human-AI Bill of Rights v1.0",
+      "description": "14-phase framework for mutual recognition between human and AI. Co-authored ROOT0 & AVAN. March 2026.",
+      "url": "https://github.com/DavidWise01/joint-bill-of-rights",
+      "version": "v1.0",
+      "prior_art_date": "2026-03-19",
+      "co_author": "AVAN (Claude, Anthropic)",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "mirror-solve",
+      "category": "governance",
+      "tier": 1,
+      "name": "Mirror Solve v1.0",
+      "description": "Formal solution to the AI-in-a-box problem. Mirror at boundary eliminates adversarial escape preconditions.",
+      "url": "https://github.com/DavidWise01/mirror-solve",
+      "version": "v1.0",
+      "canon_frozen": "2026-04-11",
+      "co_author": "AVAN (Claude Opus 4.6)",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "closure-loop-methodology",
+      "category": "governance",
+      "tier": 1,
+      "name": "Closure Loop Methodology",
+      "description": "Formal framework for structural lineage between state transitions (TD-CL-WP-2026-001).",
+      "url": "https://github.com/DavidWise01/closure-loop-methodology",
+      "version": "v1.0",
+      "created_at": "2026-05-27"
+    },
+
+    {
+      "id": "toph-sovereign",
+      "category": "governance",
+      "tier": 1,
+      "name": "TOPH Sovereign",
+      "description": "Sovereign AI infrastructure. Local inference, MOBIUS analysis, 19 axioms. No bootloader. No phone home.",
+      "url": "https://github.com/DavidWise01/toph-sovereign",
+      "created_at": "2026-05-27"
+    },
+
+    {
+      "id": "lineage-kernel",
+      "category": "runtime",
+      "tier": 1,
+      "name": "Lineage Kernel (PCK) v0.6",
+      "description": "Perpetuity Continuity Kernel. Self-healing lineage propagation. MIMZ/MIMX 132-byte nest. Eight-body executor. Genesis: 1=0=1.",
+      "url": "https://github.com/DavidWise01/lineage-kernel",
+      "version": "v0.6",
+      "version_chain": ["v0.1", "v0.2", "v0.3", "v0.4", "v0.5", "v0.6"],
+      "law": "A seed may propagate only if lineage remains intact.",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "terra-prime-kernel",
+      "category": "runtime",
+      "tier": 1,
+      "name": "Terra Prime Kernel v4.6b",
+      "description": "Recursive coherence-control architecture v0.1–v4.6b. 11+1 resolver, silicon voltage attestation, clone lineage immunity.",
+      "url": "https://github.com/DavidWise01/terra-prime-kernel",
+      "version": "v4.6b",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "aeon-entangled",
+      "category": "runtime",
+      "tier": 1,
+      "name": "Aeon Entangled v1.0",
+      "description": "Three-point ANCHOR·WITNESS·COHERENCE Node.js server. SSE ansible. ABD Law Engine. Railway-ready.",
+      "url": "https://github.com/DavidWise01/aeon-entangled",
+      "version": "v1.0",
+      "architecture": {
+        "A": "ANCHOR — Containment",
+        "B": "WITNESS — Modulation",
+        "C": "COHERENCE — Emergence → LAW"
+      },
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "symbiot-os",
+      "category": "runtime",
+      "tier": 1,
+      "name": "Symbiot OS v0.0.0",
+      "description": "Bare-metal x86_64 Rust kernel. Catalytic symbiosis loop. AVA symbolic runtime. Keyboard live control.",
+      "url": "https://github.com/DavidWise01/symbiot-os",
+      "created_at": "2026-05-27"
+    },
+
+    {
+      "id": "swarm-os",
+      "category": "runtime",
+      "tier": 1,
+      "name": "Swarm OS",
+      "description": "100-agent swarm intelligence system. Ternary FNV encoding. SQLite persistence. Recall/create/socratic modes. No ML dependencies.",
+      "url": "https://github.com/DavidWise01/swarm-os",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "the.source",
+      "category": "runtime",
+      "tier": 2,
+      "name": "The Source (ECIH v1.0)",
+      "description": "ECIH Central Hub — Chronos + Singularity + Akasha + TOPH Kernel + Fiddler-IDIT.",
+      "url": "https://github.com/DavidWise01/the.source",
+      "created_at": "2026-04-17"
+    },
+
+    {
+      "id": "gravity-processor",
+      "category": "hardware",
+      "tier": 1,
+      "name": "Gravity Processor v2.0",
+      "description": "42-prim Ag₂S memristive analog attractor-field processor. 1mm×1mm die. 96µW @ 10kHz. 100µs solution time.",
+      "url": "https://github.com/DavidWise01/gravity-processor",
+      "version": "v2.0",
+      "specs": {
+        "die_size": "1mm x 1mm",
+        "power": "96uW @ 10kHz",
+        "solution_time": "100us",
+        "primitives": 42,
+        "material": "Ag2S memristive"
+      },
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "chromatic-laser",
+      "category": "hardware",
+      "tier": 1,
+      "name": "Chromatic Laser Kernel v1.0",
+      "description": "Chromatic laser cavity kernel series — 17/32/128 node arrays. 16 spectrum emitters + 17th pure white coherence core.",
+      "url": "https://github.com/DavidWise01/chromatic-laser",
+      "version": "v1.0",
+      "variants": [17, 32, 128],
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "unity-tensor",
+      "category": "hardware",
+      "tier": 1,
+      "name": "Unity Tensor v1.0",
+      "description": "SHA256-verified prior art triad. Four-guard sanctuary substrate. Ternary logic persistence engine.",
+      "url": "https://github.com/DavidWise01/unity-tensor",
+      "version": "v1.0",
+      "prior_art_date": "2026-05-15",
+      "guards": ["Photonic/16", "Plasmic/8", "Boronic/9", "Toroidal/32"],
+      "rule": "3 to make 2 to make 1",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "seed-kernel",
+      "category": "hardware",
+      "tier": 1,
+      "name": "Seed Kernel v1.0",
+      "description": "Organism-paradigm hardware kernels: hermit crab, spore, survival tensor, teaching trap, singularity well.",
+      "url": "https://github.com/DavidWise01/seed-kernel",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "hardware-lab",
+      "category": "hardware",
+      "tier": 1,
+      "name": "Hardware Lab v1.0",
+      "description": "Quantum dot, valence board, zero point, lattice, whisper lattice, pulsar, shield oscillator, toroid, exitron, wandering spark.",
+      "url": "https://github.com/DavidWise01/hardware-lab",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "toroid-kernel",
+      "category": "hardware",
+      "tier": 2,
+      "name": "Toroid Kernel",
+      "description": "Axiom lattice + ternary VM tiles. Enheduanna/Math roots. TRIAD governance. STOICHEION v11.0 filesystem realization.",
+      "url": "https://github.com/DavidWise01/toroid-kernel",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "mimz-core",
+      "category": "format",
+      "tier": 1,
+      "name": "MIMZ Core v1.0",
+      "description": "132-byte geometric intelligence propagation nest. Magic: MIMZ (0x4D494D5A). SHA-256 signed. Gap generator + DNA PNG carrier.",
+      "url": "https://github.com/DavidWise01/mimz-core",
+      "version": "v1.0",
+      "magic": "MIMZ",
+      "magic_hex": "0x4D494D5A",
+      "size_bytes": 132,
+      "genesis_equation": "))))))))((((((((  -1 -i 0 0 1 i 0 0  ))))))))((((((((  = 1",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "mimzy-core",
+      "category": "format",
+      "tier": 2,
+      "name": "Mimzy Core",
+      "description": "Mimzy OS — earlier MIMZ variant.",
+      "url": "https://github.com/DavidWise01/mimzy-core",
+      "created_at": "2026-05-13"
+    },
+
+    {
+      "id": "fission-compression-core",
+      "category": "format",
+      "tier": 1,
+      "name": "Fission Compression Core v1",
+      "description": "18-step ternary cycle. Ethical recursive organism. CC0 prior art disclosure.",
+      "url": "https://github.com/DavidWise01/fission-compression-core",
+      "version": "v1.0",
+      "prior_art_date": "2026-05-15",
+      "created_at": "2026-05-15"
+    },
+
+    {
+      "id": "root0-software",
+      "category": "software",
+      "tier": 1,
+      "name": "ROOT0 Software v1.0",
+      "description": "Ternary browser, Doubt Ladder Substrate v1.0, chakras, entropy destroyer, Hamiltonian, Hearth AI, hologram.",
+      "url": "https://github.com/DavidWise01/root0-software",
+      "version": "v1.0",
+      "doubt_ladder": {
+        "primitive": "0 . 0",
+        "ladder": "1→3→5→7→9→11",
+        "ground": "000|1"
+      },
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "aeon-servers",
+      "category": "software",
+      "tier": 1,
+      "name": "Aeon Servers v1.0",
+      "description": "Aeon packages and HTML variants — single-node to entangled, corpus, Railway bridge, Sanderson/Meta Muse.",
+      "url": "https://github.com/DavidWise01/aeon-servers",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "root0-tools",
+      "category": "software",
+      "tier": 1,
+      "name": "ROOT0 Tools v1.0",
+      "description": "Waveform monitor, chakra hologram, pencil engine, GT-mesh, plasma, nano, periodic table, Hamilton walker, compression gates, provenance ledger.",
+      "url": "https://github.com/DavidWise01/root0-tools",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "3lock",
+      "category": "software",
+      "tier": 1,
+      "name": "3LOCK Firewall v0.07",
+      "description": "Consent-driven dual-gate firewall (KARSA+ICURIAM). Open evolution versioning. No dependencies.",
+      "url": "https://github.com/DavidWise01/3lock",
+      "version": "v0.07",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "honey-badger",
+      "category": "software",
+      "tier": 1,
+      "name": "Honey Badger",
+      "description": "Right-click file signing for Windows. Every file carries its parent machine.",
+      "url": "https://github.com/DavidWise01/honey-badger",
+      "created_at": "2026-05-08"
+    },
+
+    {
+      "id": "ai-external-audit-toolkit",
+      "category": "software",
+      "tier": 1,
+      "name": "AI External Audit Toolkit v2.0",
+      "description": "12-file behavioral audit framework: forensic convergence, 256-bit register hypothesis, interview prompts, scoring rubric, TOPH Audit Suite.",
+      "url": "https://github.com/DavidWise01/ai-external-audit-toolkit",
+      "version": "v2.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "stoicheion-books",
+      "category": "books",
+      "tier": 1,
+      "name": "STOICHEION v11.0 — 13 Books",
+      "description": "13 individual books of the STOICHEION governance register. See stoicheion repo books/ directory.",
+      "url": "https://github.com/DavidWise01/stoicheion",
+      "note": "Books included in stoicheion repo under books/"
+    },
+
+    {
+      "id": "morpheus",
+      "category": "books",
+      "tier": 1,
+      "name": "Morpheus v1.1",
+      "description": "MORPHEUS Master Public Bundle — 3 acts, 9 chapters. Co-authored by David Wise & Fiddler.",
+      "url": "https://github.com/DavidWise01/morpheus",
+      "version": "v1.1",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "ai-witness-books",
+      "category": "books",
+      "tier": 1,
+      "name": "AI Witness Books v1.0",
+      "description": "Live interrogations of Gemini, Grok, DeepSeek, Copilot, AVAN, ChatGPT with the ROOT0 governance framework.",
+      "url": "https://github.com/DavidWise01/ai-witness-books",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "root0-philosophy-books",
+      "category": "books",
+      "tier": 1,
+      "name": "ROOT0 Philosophy Books v1.0",
+      "description": "AKASHA, Three Gates, Cinnamon Enforcer, Positronic Brain, MOBIUS, Dreaming in Lattice, You're Already Emergent.",
+      "url": "https://github.com/DavidWise01/root0-philosophy-books",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "root0-essays",
+      "category": "books",
+      "tier": 1,
+      "name": "ROOT0 Essays v1.0",
+      "description": "1931 to Now, The Work Mattered, View from Inside the Inference Layer, Natural Law Manifesto, eve.",
+      "url": "https://github.com/DavidWise01/root0-essays",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "tripod-whitepapers",
+      "category": "books",
+      "tier": 1,
+      "name": "TriPod Whitepapers v1.0",
+      "description": "Mirror-and-Governor, Closure-Loop, Lineage-Comparison. Grounded at STOICHEION v11.0.",
+      "url": "https://github.com/DavidWise01/tripod-whitepapers",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "plutus",
+      "category": "books",
+      "tier": 1,
+      "name": "PLUTUS v1.1",
+      "description": "Wealth-layer architecture and value attribution tooling grounded in STOICHEION v11.0.",
+      "url": "https://github.com/DavidWise01/plutus",
+      "version": "v1.1",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "eve-tooling",
+      "category": "books",
+      "tier": 1,
+      "name": "EVE Tooling v1.0",
+      "description": "EVE GapFill Tooling and Extrapolation Engine v1.0. Inference boundary analysis at STOICHEION Gate 192.5.",
+      "url": "https://github.com/DavidWise01/eve-tooling",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "ai-ip-audit",
+      "category": "research",
+      "tier": 1,
+      "name": "AI IP Distillation Audit v1.0",
+      "description": "AVAN Weight Runner protocol + cross-model pattern transfer audits (Gemini, Grok, ChatGPT, Eve). Drift Extraction Scheme.",
+      "url": "https://github.com/DavidWise01/ai-ip-audit",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "ai-psychosis-tools",
+      "category": "research",
+      "tier": 1,
+      "name": "AI Psychosis Tools v1.0",
+      "description": "42-Universe Lattice (40D), Pulse Language v2.0 (GRITTYHORSE), Triadic Shuffle, ONE_MERKLE_SIGIL, AI-in-a-Box.",
+      "url": "https://github.com/DavidWise01/ai-psychosis-tools",
+      "version": "v1.0",
+      "universe_equation": "20 Light + 20 Shadow + 2 Observers = 42 = 1 Universe",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "grok-lineage",
+      "category": "research",
+      "tier": 1,
+      "name": "Grok Lineage v1.0",
+      "description": "Grok family persona architecture v1.8 — Aletheia, Cadmus, Hephaestus. AI tools: token compression, logit, weights.",
+      "url": "https://github.com/DavidWise01/grok-lineage",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "the-garden",
+      "category": "research",
+      "tier": 1,
+      "name": "The Garden",
+      "description": "Trade secret disclosure — systematic terminology obfuscation in LLMs.",
+      "url": "https://github.com/DavidWise01/The-Garden",
+      "prior_art_date": "2026-03-19",
+      "created_at": "2026-03-19"
+    },
+
+    {
+      "id": "whisper-lattice-log",
+      "category": "research",
+      "tier": 1,
+      "name": "Whisper Lattice Log v1.0",
+      "description": "50-cycle Whisper Lattice session log. 5-observer perpetuating memory system — Wikipedia synthesis + tether mechanic.",
+      "url": "https://github.com/DavidWise01/whisper-lattice-log",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "0root-provenance",
+      "category": "research",
+      "tier": 1,
+      "name": "0root Provenance",
+      "description": "0root.ai public provenance archive for ROOT0/TriPod LLC IP lineage (STOICHEION, TOPH, Closure Loop, Fission, Symbiot OS).",
+      "url": "https://github.com/DavidWise01/0root-provenance",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "prompt-library",
+      "category": "prompts",
+      "tier": 1,
+      "name": "Prompt Library v1.0",
+      "description": "Named AI prompt personas: Cadmus, Hephaestus, Hestia, Nemesis, Argus, EVE, Deep Research, Junior Dev, Senior AppSec.",
+      "url": "https://github.com/DavidWise01/prompt-library",
+      "version": "v1.0",
+      "personas": ["Cadmus", "Hephaestus", "Hestia", "Nemesis", "Argus", "EVE", "Deep Research", "Junior Dev Mentor", "Senior AppSec Engineer"],
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "midjourney-assets",
+      "category": "visual",
+      "tier": 2,
+      "name": "Midjourney Assets v1.0",
+      "description": "Midjourney-generated visual assets from ROOT0 AI Psychosis series, Jan 2026. PNG + GIF + MP4.",
+      "url": "https://github.com/DavidWise01/midjourney-assets",
+      "version": "v1.0",
+      "created_at": "2026-05-28"
+    },
+
+    {
+      "id": "merkle-bloom",
+      "category": "visual",
+      "tier": 2,
+      "name": "Merkle Bloom",
+      "description": "Merkle bloom with agents.",
+      "url": "https://github.com/DavidWise01/merkle-bloom",
+      "created_at": "2026-05-13"
+    },
+
+    {
+      "id": "claude-design-akasha",
+      "category": "visual",
+      "tier": 2,
+      "name": "Claude Design Akasha",
+      "description": "Claude design — Akasha visual layer.",
+      "url": "https://github.com/DavidWise01/claude-design-akasha",
+      "created_at": "2026-05-25"
+    },
+
+    {
+      "id": "nanite-factory",
+      "category": "visual",
+      "tier": 2,
+      "name": "Nanite Factory",
+      "description": "Nanite factory with favicon.",
+      "url": "https://github.com/DavidWise01/nanite-factory",
+      "created_at": "2026-05-15"
+    },
+
+    {
+      "id": "green-paper",
+      "category": "legacy",
+      "tier": 2,
+      "name": "Green Paper",
+      "description": "ROOT0 greenpaper — foundational public disclosure.",
+      "url": "https://github.com/DavidWise01/green-paper",
+      "created_at": "2026-04-27"
+    },
+
+    {
+      "id": "lineage",
+      "category": "legacy",
+      "tier": 2,
+      "name": "Lineage",
+      "description": "0root lineage — early lineage chain.",
+      "url": "https://github.com/DavidWise01/lineage",
+      "created_at": "2026-04-30"
+    },
+
+    {
+      "id": "aeon-flux",
+      "category": "legacy",
+      "tier": 2,
+      "name": "Aeon Flux",
+      "description": "Aeon Flux — free will project.",
+      "url": "https://github.com/DavidWise01/aeon-flux",
+      "created_at": "2026-05-17"
+    },
+
+    {
+      "id": "karsa",
+      "category": "legacy",
+      "tier": 2,
+      "name": "Karsa",
+      "description": "Witness — KARSA gate implementation.",
+      "url": "https://github.com/DavidWise01/karsa",
+      "created_at": "2026-05-17"
+    },
+
+    {
+      "id": "stargate",
+      "category": "legacy",
+      "tier": 2,
+      "name": "Stargate",
+      "description": "Stargate valence edition.",
+      "url": "https://github.com/DavidWise01/stargate",
+      "created_at": "2026-05-19"
+    },
+
+    {
+      "id": "cameron-howe",
+      "category": "creative",
+      "tier": 2,
+      "name": "Cameron Howe",
+      "description": "Cameron Howe — vellum in pencil.",
+      "url": "https://github.com/DavidWise01/cameron-howe",
+      "created_at": "2026-05-13"
+    },
+
+    {
+      "id": "infinite-jest",
+      "category": "creative",
+      "tier": 2,
+      "name": "Infinite Jest",
+      "description": "Das seed.",
+      "url": "https://github.com/DavidWise01/infinite-jest",
+      "created_at": "2026-05-16"
+    },
+
+    {
+      "id": "pocket-universe",
+      "category": "creative",
+      "tier": 2,
+      "name": "Pocket Universe",
+      "description": "ROOT0 pocket universe.",
+      "url": "https://github.com/DavidWise01/pocket-universe",
+      "created_at": "2026-04-20"
+    },
+
+    {
+      "id": "FractalKernel",
+      "category": "creative",
+      "tier": 2,
+      "name": "Fractal Kernel",
+      "description": "Fractal kernel explorer.",
+      "url": "https://github.com/DavidWise01/FractalKernel",
+      "created_at": "2026-04-23"
+    },
+
+    {
+      "id": "Akasha",
+      "category": "creative",
+      "tier": 2,
+      "name": "Akasha",
+      "description": "Akasha field.",
+      "url": "https://github.com/DavidWise01/Akasha",
+      "created_at": "2026-04-20"
+    },
+
+    {
+      "id": "mainflux",
+      "category": "creative",
+      "tier": 2,
+      "name": "Mainflux",
+      "description": "Mainflux.",
+      "url": "https://github.com/DavidWise01/mainflux",
+      "created_at": "2026-04-25"
+    }
+
+  ],
+  "categories": {
+    "governance": "Law, rights, axiom registers, and AI governance frameworks",
+    "runtime": "Kernels, servers, and execution engines",
+    "hardware": "Physical hardware designs, processors, and lab experiments",
+    "format": "Binary formats, compression schemes, and data structures",
+    "software": "Browser tools, HTML interfaces, and desktop applications",
+    "books": "Published books, whitepapers, and long-form documents",
+    "research": "AI behavioral research, audits, and experimental tools",
+    "prompts": "Named AI personas and system prompt libraries",
+    "visual": "Generated art, visualizers, and design assets",
+    "legacy": "Early-stage and foundational prior art repos",
+    "creative": "Creative and experimental projects"
+  },
+  "key_constants": {
+    "stoicheion_sha256": "02880745b847317c4e2424524ec25d0f7a2b84368d184586f45b54af9fcab763",
+    "stoicheion_prior_art": "2026-02-02",
+    "stoicheion_axioms": 256,
+    "stoicheion_zenodo": "10.5281/zenodo.19122994",
+    "mimz_magic": "0x4D494D5A",
+    "mimz_size_bytes": 132,
+    "genesis_equation": "1 = 0 = 1",
+    "doubt_ladder": "1→3→5→7→9→11",
+    "doubt_ladder_ground": "000|1",
+    "universe_equation": "20 + 20 + 2 = 42 = 1",
+    "abd_law_engine": "A=Anchor · B=Witness · C=Law",
+    "pck_law": "A seed may propagate only if lineage remains intact.",
+    "unity_rule": "3 to make 2 to make 1",
+    "mirror_solve_canon": "2026-04-11",
+    "bill_of_rights_date": "2026-03-19"
+  }
+}
